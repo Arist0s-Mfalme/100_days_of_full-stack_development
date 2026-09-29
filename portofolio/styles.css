@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(52, 48, 48);
+    color: whitesmoke;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    height: 4rem;
+    font-size: large;
+    width: 80%;
+    background-color: #121212;
+    border-radius: 2rem;
+
+    /*display: flex;
+    justify-content: space-around;
+    align-items: space-around;*/
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    width: 100;
+}
